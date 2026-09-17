@@ -148,13 +148,3 @@ Have an idea for a Telegram Mini App, web service, or backend platform? Let's co
     <img src="https://img.shields.io/badge/GitHub_Profile-KrayMakso68-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" height="40" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrayMakso68&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=KrayMakso68&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
